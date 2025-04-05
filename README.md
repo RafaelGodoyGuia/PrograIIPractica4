@@ -54,3 +54,7 @@ El proyecto incluye un `Makefile` para simplificar la compilación y ejecución 
 2. **Para compilar el programa**, ejecuta el siguiente comando:
    ```bash
    make compile
+   
+### Autores
+- Rafael Godoy
+- Alejandro Santamaria
